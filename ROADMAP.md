@@ -20,7 +20,7 @@ Updated **14 September 2026**. This is the development direction, not a release 
 
 The current development build includes GB, GBC and GBA emulation, local imports, optional RomM connection, selected downloads and offline play. Saves, supported server backups and restores, customisable skins, dark mode and compatible controllers form part of that experience.
 
-The immediate focus is preparing this experience for release and addressing findings from testing. Public testing and download links will appear on the [main page](README.md) when available.
+The immediate focus is preparing this experience for release and addressing findings from testing. [Beta sign-up is open](https://docs.google.com/forms/d/e/1FAIpQLSdVWGCNsiKHqh1iCb71eR9xDIjbLoFTNzuqHjNhJQYprzpiQw/viewform), with limited places allocated first come, first served. Installation invitations are sent separately. Release news will appear on the [main page](README.md).
 
 ## An original Mega Drive core
 

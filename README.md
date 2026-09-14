@@ -8,7 +8,7 @@ Retro gaming on Android, with built-in emulation, offline play and customisable 
 
 **In development · GB / GBC / GBA · Android**
 
-[Getting started](GETTING_STARTED.md) · [Roadmap](ROADMAP.md) · [Development updates](UPDATES.md) · [Support and feedback](SUPPORT.md)
+[Join the beta](https://docs.google.com/forms/d/e/1FAIpQLSdVWGCNsiKHqh1iCb71eR9xDIjbLoFTNzuqHjNhJQYprzpiQw/viewform) · [Getting started](GETTING_STARTED.md) · [Roadmap](ROADMAP.md) · [Development updates](UPDATES.md) · [Support and feedback](SUPPORT.md)
 
 </div>
 
@@ -57,9 +57,21 @@ Server features require a compatible RomM server and the necessary account permi
 </tr>
 </table>
 
+## Join the RomBoy beta
+
+Try RomBoy on your Android phone and help shape the app with honest feedback. Internal testers can install the beta **free through Google Play**.
+
+**Limited places. First come, first served.** Google Play allows a maximum of **100 internal testers in total**, including existing testers. Available places are allocated in sign-up order.
+
+**[Request a beta place →](https://docs.google.com/forms/d/e/1FAIpQLSdVWGCNsiKHqh1iCb71eR9xDIjbLoFTNzuqHjNhJQYprzpiQw/viewform)**
+
+Use the email address you use for Google Play. Signing up requests a place; it does not provide immediate access. If a place is available, you will receive an invitation and installation instructions by email. If the test is full, we will contact you if a place opens. Please submit only once.
+
+You will need a compatible Android device and your own compatible game files. Sign-up details are used to manage testing and are not published on GitHub. Once invited, use the [feedback forms](https://github.com/NatLego/RomBoy/issues/new/choose) to report problems and suggest improvements.
+
 ## Release plans
 
-RomBoy is in development and preparing for Google Play release. A download or testing link will be added here when available.
+RomBoy is in development and preparing for Google Play release. Beta sign-up is open above; installation invitations are sent separately to accepted testers. A public store download link will be added when available.
 
 The planned release is a single purchase, with no advertising or subscription. Future app updates are included for existing buyers.
 

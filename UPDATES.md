@@ -2,6 +2,12 @@
 
 [Back to RomBoy](README.md)
 
+## 14 September 2026 · Beta sign-up opens
+
+[Request a place in the RomBoy beta](https://docs.google.com/forms/d/e/1FAIpQLSdVWGCNsiKHqh1iCb71eR9xDIjbLoFTNzuqHjNhJQYprzpiQw/viewform). Available places are allocated first come, first served within Google Play's maximum of 100 internal testers, including existing testers. Internal testers can install the beta free through Google Play.
+
+Signing up requests a place. Installation invitations are sent by email once a tester is added. If the test is full, we will contact people in sign-up order as places become available.
+
 ## 14 September 2026 · Introducing RomBoy
 
 RomBoy's public showcase brings together the current app features, eight phone mock-ups, setup guidance and the roadmap.

@@ -2,7 +2,7 @@
 
 [Back to RomBoy](README.md)
 
-RomBoy is in development. Public download and testing links will be added to the main page when available. This guide describes the current app's basic flow.
+RomBoy is in development. [Request a beta place](https://docs.google.com/forms/d/e/1FAIpQLSdVWGCNsiKHqh1iCb71eR9xDIjbLoFTNzuqHjNhJQYprzpiQw/viewform) using your Google Play email address. Available places are first come, first served within Google Play's 100-tester internal limit, including existing testers. Installation invitations are emailed separately once you are added. This guide describes the current app's basic flow.
 
 ## Bring games from your phone
 
