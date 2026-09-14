@@ -1,0 +1,22 @@
+name: Feature request
+description: Suggest something you would like to do in RomBoy.
+title: "[Feature] "
+body:
+  - type: textarea
+    id: need
+    attributes:
+      label: What would you like to do?
+      description: Describe the feature and how you would use it.
+    validations:
+      required: true
+  - type: textarea
+    id: benefit
+    attributes:
+      label: How would it help?
+      description: Tell us about your collection, device or playing setup where relevant.
+    validations:
+      required: true
+  - type: textarea
+    id: other
+    attributes:
+      label: Anything else?

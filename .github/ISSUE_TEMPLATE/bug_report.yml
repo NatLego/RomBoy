@@ -1,0 +1,42 @@
+name: Bug report
+description: Tell us what went wrong in RomBoy.
+title: "[Bug] "
+body:
+  - type: markdown
+    attributes:
+      value: "This report is public. Do not include credentials, server addresses, ROMs, BIOS files or private saves."
+  - type: input
+    id: version
+    attributes:
+      label: RomBoy version
+    validations:
+      required: true
+  - type: input
+    id: device
+    attributes:
+      label: Phone and Android version
+    validations:
+      required: true
+  - type: textarea
+    id: steps
+    attributes:
+      label: Steps to reproduce
+      description: What were you doing when the problem happened?
+    validations:
+      required: true
+  - type: textarea
+    id: result
+    attributes:
+      label: Expected and actual result
+      description: What should have happened, and what happened instead?
+    validations:
+      required: true
+  - type: input
+    id: accessories
+    attributes:
+      label: Controller or RomM version, if relevant
+  - type: textarea
+    id: context
+    attributes:
+      label: Additional details or screenshots
+      description: Remove personal information and credentials before posting.
