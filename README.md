@@ -83,4 +83,4 @@ Use [Issues](https://github.com/NatLego/RomBoy/issues) to report a problem or su
 
 Games are not included. Use compatible ROM files you have the right to use. Screenshots and phone mock-ups illustrate the app; game artwork belongs to its respective owners.
 
-RomBoy is independently developed and is not affiliated with or endorsed by the RomM project, Nintendo or Backbone.
+RomBoy is an independently developed Android app that connects to your RomM library.
