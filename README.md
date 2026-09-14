@@ -63,7 +63,7 @@ RomBoy is in development and preparing for Google Play release. A download or te
 
 The planned release is a single purchase, with no advertising or subscription. Future app updates are included for existing buyers.
 
-Nintendo DS and Sega Mega Drive support are on the roadmap. Other systems are being considered. These are future plans, not features in the current build; see the [roadmap](ROADMAP.md) for status.
+RomBoy's developer is building an original Sega Mega Drive / Genesis core. Nintendo DS support is planned, with additional systems under consideration. Remote two-player play is also a research direction, with no guarantee of release. See the [roadmap](ROADMAP.md) for the aims and status of each project.
 
 ## Follow along
 
