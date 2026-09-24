@@ -2,6 +2,14 @@
 
 [Back to RomBoy](README.md)
 
+## 24 September 2026 · Mega Drive testing continues
+
+**The original Mega Drive / Genesis core remains experimental and is not available in the Google Play app.**
+
+Work in a separate development build includes CPU performance improvements, automated regression checks and real-game testing. Longer gameplay tests still expose frame-delivery and audio problems, and graphics and compatibility work remain unfinished.
+
+The next work is to resolve those failures and complete further gameplay and controller checks. This is a development update, not a core release or a compatibility announcement; there is no announced release date.
+
 ## 24 September 2026 · Help links, sharing and feedback
 
 **0.1.0-testing.6 has been submitted for Closed testing - Alpha. Google Play approval is pending; this is not a production release.**
