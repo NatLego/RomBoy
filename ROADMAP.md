@@ -4,13 +4,13 @@
 
 RomBoy starts with Game Boy, Game Boy Color and Game Boy Advance. The next chapter includes an original Mega Drive core, Nintendo DS support and research into playing together across a distance.
 
-Updated **14 September 2026**. This is the development direction, not a release schedule. Features move into the app when they are ready; experimental work may change or may not reach release.
+Updated **24 September 2026**. This is the development direction, not a release schedule. Features move into the app when they are ready; experimental work may change or may not reach release.
 
 ## Development at a glance
 
 | Area | Status | Aim |
 | --- | --- | --- |
-| Android launch | **Release preparation** | Bring the current GB, GBC and GBA experience to Google Play. |
+| Android launch | **Closed testing** | Test and refine the GB, GBC and GBA experience before production release. |
 | Original Mega Drive core | **In development** | Build RomBoy's own emulator core for Sega Mega Drive / Genesis. |
 | Nintendo DS | **Planned** | Add DS play with a considered approach to its two screens and touch input. |
 | Remote two-player play | **Exploratory** | Investigate whether two people can play supported games together from different locations. |
@@ -20,7 +20,7 @@ Updated **14 September 2026**. This is the development direction, not a release 
 
 The current development build includes GB, GBC and GBA emulation, local imports, optional RomM connection, selected downloads and offline play. Saves, supported server backups and restores, customisable skins, dark mode and compatible controllers form part of that experience.
 
-The immediate focus is preparing this experience for release and addressing findings from testing. [Beta sign-up is open](https://docs.google.com/forms/d/e/1FAIpQLSdVWGCNsiKHqh1iCb71eR9xDIjbLoFTNzuqHjNhJQYprzpiQw/viewform), with limited places allocated first come, first served. Installation invitations are sent separately. Release news will appear on the [main page](README.md).
+RomBoy is in closed testing on Google Play. The immediate focus is addressing tester feedback and preparing for production access. Version 0.1.0-testing.6 has been submitted for review with Help links and sharing and rating actions; see [Development updates](UPDATES.md) for release status. [Beta sign-up is open](https://docs.google.com/forms/d/e/1FAIpQLSdVWGCNsiKHqh1iCb71eR9xDIjbLoFTNzuqHjNhJQYprzpiQw/viewform), with limited places allocated first come, first served. Installation invitations are sent separately. Release news will appear on the [main page](README.md).
 
 ## An original Mega Drive core
 
