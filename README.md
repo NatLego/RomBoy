@@ -6,7 +6,7 @@
 
 Retro gaming on Android, with built-in emulation, offline play and customisable skins.
 
-**In development · GB / GBC / GBA · Android**
+**In closed testing · GB / GBC / GBA · Android**
 
 [Join the beta](https://docs.google.com/forms/d/e/1FAIpQLSdVWGCNsiKHqh1iCb71eR9xDIjbLoFTNzuqHjNhJQYprzpiQw/viewform) · [Getting started](GETTING_STARTED.md) · [Roadmap](ROADMAP.md) · [Development updates](UPDATES.md) · [Support and feedback](SUPPORT.md)
 
@@ -71,7 +71,7 @@ You will need a compatible Android device and your own compatible game files. Si
 
 ## Release plans
 
-RomBoy is in development and preparing for Google Play release. Beta sign-up is open above; installation invitations are sent separately to accepted testers. A public store download link will be added when available.
+RomBoy is in closed testing on Google Play. Beta sign-up is open above; installation invitations are sent separately to accepted testers. The [Google Play listing](https://play.google.com/store/apps/details?id=dev.romboy.app) is available to eligible testers; general production access is not open yet. See [Development updates](UPDATES.md) for the latest version and review status.
 
 The planned release is a single purchase, with no advertising or subscription. Future app updates are included for existing buyers.
 
@@ -79,7 +79,7 @@ RomBoy's developer is building an original Sega Mega Drive / Genesis core. Ninte
 
 ## Follow along
 
-Use [Issues](https://github.com/NatLego/RomBoy/issues) to report a problem or suggest a feature. Development notes live in [Updates](UPDATES.md). This repository contains RomBoy's public showcase, documentation and feedback; the app source is developed privately.
+Use [Issues](https://github.com/NatLego/RomBoy/issues) to report a problem or suggest a feature, and [Discussions](https://github.com/NatLego/RomBoy/discussions) for questions and conversation. Read the [privacy policy](https://letmehelp-romboy.web.app/privacy-policy/). Development notes live in [Updates](UPDATES.md). This repository contains RomBoy's public showcase, documentation and feedback; the app source is developed privately.
 
 Games are not included. Use compatible ROM files you have the right to use. Screenshots and phone mock-ups illustrate the app; game artwork belongs to its respective owners.
 
