@@ -2,7 +2,7 @@
 
 [Back to RomBoy](README.md)
 
-RomBoy is in development. [Request a beta place](https://docs.google.com/forms/d/e/1FAIpQLSdVWGCNsiKHqh1iCb71eR9xDIjbLoFTNzuqHjNhJQYprzpiQw/viewform) using your Google Play email address. Available places are first come, first served within Google Play's 100-tester internal limit, including existing testers. Installation invitations are emailed separately once you are added. This guide describes the current app's basic flow.
+RomBoy is in closed testing on Google Play. [Request a beta place](https://docs.google.com/forms/d/e/1FAIpQLSdVWGCNsiKHqh1iCb71eR9xDIjbLoFTNzuqHjNhJQYprzpiQw/viewform) using your Google Play email address. Available places are first come, first served within Google Play's 100-tester internal limit, including existing testers. Installation invitations are emailed separately once you are added. This guide describes the current app's basic flow.
 
 ## Bring games from your phone
 
@@ -34,6 +34,14 @@ Removing a downloaded game can retain its saves and the original on your server,
 ## Settle in
 
 Use touchscreen controls or connect a compatible controller. Customisable skins change the appearance of gameplay controls, and dark mode is available for the app. Gameplay screenshots can be viewed and shared from the screenshot album.
+
+## Help, sharing and feedback
+
+The following additions are part of **0.1.0-testing.6**, submitted for Google Play review on 24 September 2026. They become available to closed testers once the update is approved.
+
+- Open **Settings → Help** for the **Privacy policy** and **RomBoy on GitHub** links, alongside the existing help resources.
+- **Share RomBoy** is on the main Settings page. It opens Android’s share chooser with the Google Play link. You choose whether and where to send it.
+- **Rate RomBoy** is also on the main Settings page. It opens the Google Play listing; available feedback options depend on your testing access.
 
 ## Need help?
 
