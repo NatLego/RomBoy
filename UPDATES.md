@@ -6,7 +6,7 @@
 
 **The original Mega Drive / Genesis core remains experimental and is not available in the Google Play app.**
 
-Work in a separate development build includes CPU performance improvements, automated regression checks and real-game testing. Longer gameplay tests still expose frame-delivery and audio problems, and graphics and compatibility work remain unfinished.
+Work in a separate development build includes CPU performance improvements, automated regression checks and real-game testing. A revised display path has now passed a six-minute gameplay check and selected shorter checks on one test phone, with no recorded audio underruns in those runs. Other tests still show audio and performance failures; graphics and broader compatibility work remain unfinished.
 
 The next work is to resolve those failures and complete further gameplay and controller checks. This is a development update, not a core release or a compatibility announcement; there is no announced release date.
 
