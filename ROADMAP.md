@@ -30,7 +30,7 @@ RomBoy's developer is building an original Sega Mega Drive / Genesis emulator co
 
 The aim is to make Mega Drive play part of RomBoy's existing library and playing experience. Progress will be assessed through compatibility, timing, sound, performance and reliable handling of saves. Development updates will distinguish what has been demonstrated from what is still being worked on.
 
-Testing is taking place in a separate development build. A revised display path passed a six-minute gameplay check and selected shorter checks on one test phone, with no recorded audio underruns in those runs. Other tests still show audio and performance failures, and graphics and compatibility work remain unfinished. These results do not establish broad game compatibility or release readiness.
+Testing is taking place in a separate development build. A revised display path passed a six-minute gameplay check and selected shorter checks on one test phone, with no recorded audio underruns in those runs. Further CPU work passed a previously failing opening check and a one-minute combat check without recorded audio underruns. Intermittent audio failures in other scenes, graphics issues and broader compatibility still need testing and fixes. These results do not establish broad game compatibility or release readiness.
 
 There is no announced release date or promised compatibility list. The core is not available in the current public-facing feature set.
 
