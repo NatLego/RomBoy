@@ -2,6 +2,22 @@
 
 [Back to RomBoy](README.md)
 
+## 24 September 2026 · Help links, sharing and feedback
+
+**0.1.0-testing.6 has been submitted for Closed testing - Alpha. Google Play approval is pending; this is not a production release.**
+
+- Settings → Help now includes the existing [privacy policy](https://letmehelp-romboy.web.app/privacy-policy/) and this GitHub community page.
+- Share RomBoy and Rate RomBoy are on the main Settings page. Share opens Android’s sharing options; Rate opens RomBoy’s Google Play listing.
+- The store title and descriptions have also been submitted for review, under **RomBoy: Retro Game Emulator**.
+
+These changes were checked on a Pixel in portrait and landscape before submission. Current console support remains GB, GBC and GBA. This update does not add a new core or change gameplay controls.
+
+Use [Discussions](https://github.com/NatLego/RomBoy/discussions) for questions and conversation, or [Issues](https://github.com/NatLego/RomBoy/issues) for bug reports and feature requests.
+
+## 17 September 2026 · Consistent controls and larger game view
+
+**0.1.0-testing.5 became available to closed testers.** Portrait and landscape use consistent touch-control sizing. Screenshot and menu controls occupy side panels to preserve game space, with controller display behaviour retained.
+
 ## 14 September 2026 · Beta sign-up opens
 
 [Request a place in the RomBoy beta](https://docs.google.com/forms/d/e/1FAIpQLSdVWGCNsiKHqh1iCb71eR9xDIjbLoFTNzuqHjNhJQYprzpiQw/viewform). Available places are allocated first come, first served within Google Play's maximum of 100 internal testers, including existing testers. Internal testers can install the beta free through Google Play.
