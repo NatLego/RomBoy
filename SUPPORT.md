@@ -20,6 +20,6 @@ Screenshots can help. Remove passwords, access tokens, pairing codes, server add
 
 ## Ask a question
 
-Use the [issue tracker](https://github.com/NatLego/RomBoy/issues) for a setup or compatibility question. Include your app version and device details where relevant.
+Use [Discussions](https://github.com/NatLego/RomBoy/discussions) for setup questions, compatibility questions and general conversation. Include your app version and device details where relevant.
 
 RomBoy is independently developed. Report problems with RomBoy here; this repository is not a support channel for the RomM project or emulator hardware manufacturers.
