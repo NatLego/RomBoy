@@ -12,8 +12,7 @@ Updated 29 September 2026. There are no release dates for the features below. Pl
 | --- | --- | --- |
 | Android launch | Production pending | Release RomBoy with GB, GBC and GBA support. |
 | Original Mega Drive core | In development | Build RomBoy's own Sega Mega Drive / Genesis emulator. |
-| AYN Thor | In development | Use the built-in controls, show game artwork on the second screen and let players swap the screens. |
-| Nintendo DS | Planned | Support two game screens and touch controls, including separate displays on compatible handhelds. |
+| Nintendo DS | Planned | Support DS games with two screens and touch controls on a phone. |
 | Remote two-player play | Exploratory | Find out whether people in different locations can play supported games together. |
 | Additional cores | Under consideration | Add more systems that work well on Android. |
 
@@ -39,19 +38,11 @@ Other scenes still have intermittent audio failures. Graphics problems and wider
 
 The core isn't available in the public app. There is no release date or promised compatibility list.
 
-## AYN Thor
-
-Status: In development.
-
-Work has started on a handheld layout for AYN Thor. The aim is to play on the top screen by default and show the current game's cover on the other screen, with a button to swap the screens and a remembered screen preference. The game view uses the available screen area while keeping its original proportions, with the RomBoy button within reach at the bottom right.
-
-This is development work and is not in the released app. Gameplay and physical control checks are still needed.
-
 ## Nintendo DS
 
 Status: Planned.
 
-DS support needs a usable layout for two screens, touch input and physical controls, as well as working emulation and game compatibility. On compatible dual-screen handhelds such as AYN Thor, the aim is to put each DS screen on a separate physical display.
+DS support needs a usable layout for two screens, touch input and physical controls, as well as working emulation and game compatibility.
 
 It isn't in the current app. Details will be added as development progresses.
 
