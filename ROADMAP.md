@@ -2,68 +2,71 @@
 
 [Back to RomBoy](README.md)
 
-RomBoy starts with Game Boy, Game Boy Color and Game Boy Advance. The next chapter includes an original Mega Drive core, Nintendo DS support and research into playing together across a distance.
+RomBoy currently supports Game Boy, Game Boy Color and Game Boy Advance. An original Mega Drive core is in development, and Nintendo DS support is planned.
 
-Updated **24 September 2026**. This is the development direction, not a release schedule. Features move into the app when they are ready; experimental work may change or may not reach release.
+Updated 29 September 2026. There are no release dates for the features below. Plans may change as testing continues.
 
-## Development at a glance
+## What's next
 
 | Area | Status | Aim |
 | --- | --- | --- |
-| Android launch | **Closed testing** | Test and refine the GB, GBC and GBA experience before production release. |
-| Original Mega Drive core | **In development** | Build RomBoy's own emulator core for Sega Mega Drive / Genesis. |
-| Nintendo DS | **Planned** | Add DS play with a considered approach to its two screens and touch input. |
-| Remote two-player play | **Exploratory** | Investigate whether two people can play supported games together from different locations. |
-| Additional emulator cores | **Under consideration** | Expand the supported systems where they can work well within RomBoy. |
+| Android launch | Production pending | Release RomBoy with GB, GBC and GBA support. |
+| Original Mega Drive core | In development | Build RomBoy's own Sega Mega Drive / Genesis emulator. |
+| Nintendo DS | Planned | Support DS games with two screens and touch controls on a phone. |
+| Remote two-player play | Exploratory | Find out whether people in different locations can play supported games together. |
+| Additional cores | Under consideration | Add more systems that work well on Android. |
 
-## The foundation: Android release
+## Android app
 
-The current development build includes GB, GBC and GBA emulation, local imports, optional RomM connection, selected downloads and offline play. Saves, supported server backups and restores, customisable skins, dark mode and compatible controllers form part of that experience.
+The app supports local imports and downloads from a compatible RomM server. Games stored on your phone work offline. It also includes saves, supported server backups and restores, customisable skins, dark mode and compatible controller support.
 
-RomBoy is in closed testing on Google Play. The immediate focus is addressing tester feedback and preparing for production access. Version 0.1.0-testing.6 has been submitted for review with Help links and sharing and rating actions; see [Development updates](UPDATES.md) for release status. [Beta sign-up is open](https://docs.google.com/forms/d/e/1FAIpQLSdVWGCNsiKHqh1iCb71eR9xDIjbLoFTNzuqHjNhJQYprzpiQw/viewform), with limited places allocated first come, first served. Installation invitations are sent separately. Release news will appear on the [main page](README.md).
+Status: Production pending.
 
-## An original Mega Drive core
+See [Development updates](UPDATES.md) for recent changes.
 
-**Status: In development**
+## Original Mega Drive core
 
-RomBoy's developer is building an original Sega Mega Drive / Genesis emulator core. This is a substantial development project: reproducing the console's behaviour, bringing its graphics and audio together, and working through real-game compatibility.
+Status: In development.
 
-The aim is to make Mega Drive play part of RomBoy's existing library and playing experience. Progress will be assessed through compatibility, timing, sound, performance and reliable handling of saves. Development updates will distinguish what has been demonstrated from what is still being worked on.
+RomBoy's developer is building an original Sega Mega Drive / Genesis emulator. The work covers the console's CPU, graphics and sound, along with testing how games run.
 
-Testing is taking place in a separate development build. A revised display path passed a six-minute gameplay check and selected shorter checks on one test phone, with no recorded audio underruns in those runs. Further CPU work passed a previously failing opening check and a one-minute combat check without recorded audio underruns. Intermittent audio failures in other scenes, graphics issues and broader compatibility still need testing and fixes. These results do not establish broad game compatibility or release readiness.
+The aim is to play Mega Drive games through RomBoy's existing library. Before release, the core needs checks for game compatibility, timing, sound, performance and saves.
 
-There is no announced release date or promised compatibility list. The core is not available in the current public-facing feature set.
+Testing uses a separate development build. A revised display path passed a six-minute gameplay check and selected shorter checks on one phone, with no recorded audio underruns. Further CPU work passed an opening check that had previously failed and a one-minute combat check, also without recorded audio underruns.
 
-## Nintendo DS support
+Other scenes still have intermittent audio failures. Graphics problems and wider game compatibility need more work. These checks don't establish that the core is ready for release.
 
-**Status: Planned**
+The core isn't available in the public app. There is no release date or promised compatibility list.
 
-Bring Nintendo DS games into RomBoy, with attention to how two screens, touch input and physical controls work on a phone. Screen layout and usability are part of the work, alongside emulation and compatibility.
+## Nintendo DS
 
-DS support is not in the current build. Implementation details and availability will be shared as development progresses.
+Status: Planned.
 
-## Two players, different places
+DS support needs a usable layout for two screens, touch input and physical controls, as well as working emulation and game compatibility.
 
-**Status: Exploratory — no guaranteed release**
+It isn't in the current app. Details will be added as development progresses.
 
-Investigate remote two-player play so that two people in different locations could play supported games together through RomBoy.
+## Remote two-player play
 
-The first step is establishing technical feasibility: which systems and games could support it, how the players would connect, and whether play can stay responsive and in sync over a real internet connection. Testing would also need to establish what happens when a connection slows or drops.
+Status: Exploratory.
 
-This is an intention to investigate and attempt the feature. It is not a promise of online multiplayer, support for every system, or a release date. The outcome may be a limited feature for selected games or systems, or a decision not to ship it.
+The idea is to let two people in different locations play supported games together. First, we need to find out which systems and games could work, how players would connect, and whether the game would stay responsive and in sync over the internet. Slow connections and dropped connections would need testing too.
 
-## Future cores
+This may be limited to selected games or systems, or may not be released. There is no release date.
 
-**Status: Under consideration**
+## Other systems
 
-Other systems may follow. Candidates will be considered against game compatibility, performance on Android phones, controls, save reliability and whether the core can be responsibly maintained and distributed.
+Status: Under consideration.
 
-No additional systems are confirmed at this stage. Suggestions are welcome, particularly when they explain the games and playing experience people want from RomBoy.
+Other cores will depend on game compatibility, Android performance, controls and reliable saves. They also need to be maintainable and suitable for distribution.
 
-## How progress will be shared
+No other systems are confirmed. If you'd like to suggest one, tell us which games you want to play and what you'd like RomBoy to do.
 
-[Development updates](UPDATES.md) will record meaningful progress, testing opportunities and released features. Plans will be revised when testing or technical findings change what is practical.
+## Updates and feedback
 
-**In development** means active work. **Planned** means an intended direction. **Exploratory** means feasibility is still being investigated. **Under consideration** means a possibility, with no commitment to build it.
+[Development updates](UPDATES.md) records progress, testing opportunities and releases. This roadmap is updated when the plans change.
 
-[Suggest a feature](https://github.com/NatLego/RomBoy/issues/new?template=feature_request.yml) or follow the [issue tracker](https://github.com/NatLego/RomBoy/issues) for feedback and discussion.
+In development means work is underway. Planned means we intend to add it. Exploratory means we're checking whether it can work. Under consideration means it hasn't been chosen for development.
+
+[Suggest a feature](https://github.com/NatLego/RomBoy/issues/new?template=feature_request.yml) or visit the [issue tracker](https://github.com/NatLego/RomBoy/issues).
+
