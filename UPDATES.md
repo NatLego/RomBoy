@@ -4,7 +4,7 @@
 
 ## AYN Thor compatibility
 
-Development for AYN Thor compatibility has started.
+Work has started on bringing RomBoy to AYN Thor, with support for its built-in controls and dual screens. Play on the top screen with your game's cover on the other, or swap the screens to suit you. Compatibility is in development.
 
 ## 29 September 2026 · Production pending
 
