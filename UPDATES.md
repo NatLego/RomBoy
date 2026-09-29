@@ -2,9 +2,23 @@
 
 [Back to RomBoy](README.md)
 
-## 29 September 2026 · AYN Thor compatibility
+## 29 September 2026 · Coming in the next release
 
-Work has started on bringing RomBoy to AYN Thor, with support for its built-in controls and dual screens. For single-screen games, play on the top screen with your game's cover on the other, or swap the screens to suit you. Compatibility is in development.
+RomBoy’s next update brings a refreshed Home screen, easier cover artwork management and dedicated AYN Thor support.
+
+- **Everything together on Home:** access My games, Get games, Connect, Settings and Skins from clearly labelled, colourful boxes.
+- **A consistent look:** matching icons, fonts and controls throughout the app, with the updated library design.
+- **Find and change game covers:** search for artwork online or choose your own image using a clearly labelled button. Supports locally added games and RomM games, with custom covers saved on your device.
+
+### Built for AYN Thor
+
+RomBoy is being adapted for Thor’s built-in controls and dual screens. Browse your library on the lower screen while viewing the selected game above, with dedicated layouts for getting games, managing connections and changing settings.
+
+Single-screen games play on the top display by default, with gameplay controls on the lower screen and the option to switch screens. You can also open another app on the lower display while keeping your game above.
+
+Both screens share RomBoy’s landscape startup animation.
+
+These features are in development for the next release and are not yet available in production.
 
 ## 29 September 2026 · Production pending
 
