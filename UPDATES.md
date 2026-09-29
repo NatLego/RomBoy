@@ -2,6 +2,8 @@
 
 [Back to RomBoy](README.md)
 
+Development for AYN Thor compatibility has started.
+
 ## 29 September 2026 · Production pending
 
 Production pending. Beta recruitment links have been removed from these pages.
