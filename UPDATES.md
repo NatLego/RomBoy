@@ -2,6 +2,12 @@
 
 [Back to RomBoy](README.md)
 
+## 29 September 2026 · AYN Thor development begins
+
+Work has started on support for AYN Thor's built-in controls and two displays. The aim is to open RomBoy on the top screen and let players choose the bottom screen instead. This is local development work, not a released feature.
+
+Nintendo DS remains planned. Future DS support is intended to use both physical screens on compatible handhelds, with touch input on the lower game screen.
+
 ## 29 September 2026 · Production pending
 
 Production pending. Beta recruitment links have been removed from these pages.
