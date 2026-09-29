@@ -11,7 +11,6 @@ Updated 29 September 2026. There are no release dates for the features below. Pl
 | Area | Status | Aim |
 | --- | --- | --- |
 | Android launch | Production pending | Release RomBoy with GB, GBC and GBA support. |
-| Cartoon startup | Implemented locally; device checks pending | Add a short RomBoy dance to the next app update. |
 | Original Mega Drive core | In development | Build RomBoy's own Sega Mega Drive / Genesis emulator. |
 | Nintendo DS | Planned | Support DS games with two screens and touch controls on a phone. |
 | Remote two-player play | Exploratory | Find out whether people in different locations can play supported games together. |
@@ -70,5 +69,6 @@ No other systems are confirmed. If you'd like to suggest one, tell us which game
 In development means work is underway. Planned means we intend to add it. Exploratory means we're checking whether it can work. Under consideration means it hasn't been chosen for development.
 
 [Suggest a feature](https://github.com/NatLego/RomBoy/issues/new?template=feature_request.yml) or visit the [issue tracker](https://github.com/NatLego/RomBoy/issues).
+
 
 
