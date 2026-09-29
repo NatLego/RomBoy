@@ -6,6 +6,8 @@
 
 Work has started on support for AYN Thor's built-in controls and two displays. The aim is to play on the top screen and show the current game's cover on the bottom, with a button to swap the screens. The layout work also places the RomBoy button at the bottom right and gives the game more screen space while preserving its proportions. This is local development work, not a released feature.
 
+The Thor development preview now uses matching neutral gameplay buttons with more space from the screen edges. The revised layouts passed PC UI and display checks and were installed on the test device.
+
 Nintendo DS remains planned. Future DS support is intended to use both physical screens on compatible handhelds, with touch input on the lower game screen.
 
 ## 29 September 2026 · Production pending
