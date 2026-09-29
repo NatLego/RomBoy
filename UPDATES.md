@@ -8,7 +8,7 @@ Work has started on bringing RomBoy to AYN Thor, with support for its built-in c
 
 ## 29 September 2026 · Production pending
 
-Production pending. Beta recruitment links have been removed from these pages.
+RomBoy has passed closed testing, and beta testing is now closed. The production release is pending.
 
 ## 24 September 2026 · Mega Drive testing continues
 
