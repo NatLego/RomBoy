@@ -2,12 +2,6 @@
 
 [Back to RomBoy](README.md)
 
-## 29 September 2026 · Cartoon startup prepared for the next update
-
-A short RomBoy cartoon dance has been added to the local app source for the next update. It plays once for about 2.5 seconds when opening the app, with the library preparing in the background. Restored screens, game shortcuts and disabled system animations skip it.
-
-Device checks are still pending. This change has not been submitted to Google Play; production remains pending.
-
 ## 29 September 2026 · Production pending
 
 Production pending. Beta recruitment links have been removed from these pages.
@@ -51,4 +45,5 @@ Preparation for Google Play testing was underway.
 The roadmap covered development of RomBoy's own Mega Drive / Genesis core, planned Nintendo DS support, and exploration of remote two-player play. Other cores were also being considered. Remote multiplayer may not be released. See the [roadmap](ROADMAP.md) for current plans.
 
 Use the [issue tracker](https://github.com/NatLego/RomBoy/issues) for feedback. Updates here cover app changes, testing and releases.
+
 
