@@ -14,9 +14,6 @@ RomBoy’s next update brings a refreshed Home screen, easier cover artwork mana
 
 RomBoy is being adapted for Thor’s built-in controls and dual screens. Browse your library on the lower screen while viewing the selected game above, with dedicated layouts for getting games, managing connections and changing settings.
 
-Single-screen games play on the top display by default, with gameplay controls on the lower screen and the option to switch screens. You can also open another app on the lower display while keeping your game above.
-
-Both screens share RomBoy’s landscape startup animation.
 
 These features are in development for the next release and are not yet available in production.
 
