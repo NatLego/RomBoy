@@ -2,47 +2,47 @@
 
 [Back to RomBoy](README.md)
 
-RomBoy is in closed testing on Google Play. [Request a beta place](https://docs.google.com/forms/d/e/1FAIpQLSdVWGCNsiKHqh1iCb71eR9xDIjbLoFTNzuqHjNhJQYprzpiQw/viewform) using your Google Play email address. Available places are first come, first served within Google Play's 100-tester internal limit, including existing testers. Installation invitations are emailed separately once you are added. This guide describes the current app's basic flow.
+RomBoy plays Game Boy, Game Boy Color and Game Boy Advance games on Android. You'll need your own compatible game files.
 
-## Bring games from your phone
+## Add games from your phone
 
-1. Have compatible Game Boy, Game Boy Color or Game Boy Advance ROM files on your Android device.
-2. Extract ZIP archives before importing.
+1. Put compatible ROM files on your Android device.
+2. Extract any ZIP archives before importing.
 3. Use RomBoy's local import option to choose the files.
-4. Open your imported game from your on-device library and play.
+4. Open a game from your on-device library.
 
-A server connection is optional. Local imports work independently.
+You don't need a server to import and play local games.
 
-## Connect your collection
+## Connect to RomM
 
-1. Have access to your own compatible RomM server and an account permitted to browse and download its games.
-2. Open Connect in RomBoy and follow the server connection flow.
-3. Browse your server collection and select a supported game to download.
-4. Follow its download progress. Pause, resume and retry controls are available.
-5. Play the downloaded game from your on-device library, including when offline.
+1. Make sure you have access to a compatible RomM server and permission to browse and download games.
+2. Open Connect in RomBoy and follow the connection steps.
+3. Browse your server library and choose a supported game to download.
+4. Check its progress, or pause, resume or retry the download.
+5. Open the downloaded game from your on-device library. You can play it offline.
 
-RomBoy's server integration is for RomM. An arbitrary NAS folder or another library server is not automatically compatible. Supported server versions and setup details will be documented alongside release information.
+RomBoy connects to RomM servers. Other library servers and ordinary NAS folders aren't supported by this connection. Supported server versions and setup details will be added with release information.
 
-## Keep your progress
+## Saves and backups
 
-Game progress is saved on your device. Games linked to your server library can also receive automatic server backups when the connected server supports the necessary save features and your account has permission.
+RomBoy saves your progress on your device. For games linked to your RomM library, it can also back up saves automatically if your server supports saves and your account has permission.
 
-You can restore supported saves through the server connection, import or export save files from a game's page, and choose between versions when saves conflict. Server backups and restores require a connection.
+You can restore supported saves from your server, import or export save files from a game's page, and choose which version to keep when saves conflict. Server backups and restores need a connection to your server.
 
-Removing a downloaded game can retain its saves and the original on your server, allowing you to download the game again later.
+You can remove a downloaded game and keep its saves and the original game on your server, then download it again later.
 
-## Settle in
+## Controls and appearance
 
-Use touchscreen controls or connect a compatible controller. Customisable skins change the appearance of gameplay controls, and dark mode is available for the app. Gameplay screenshots can be viewed and shared from the screenshot album.
+Play with the touchscreen or a compatible controller. Choose a skin for your gameplay controls, switch the app to dark mode, or take gameplay screenshots. You can view and share screenshots from the album.
 
-## Help, sharing and feedback
+## Help, sharing and rating
 
-The following additions are part of **0.1.0-testing.6**, submitted for Google Play review on 24 September 2026. They become available to closed testers once the update is approved.
+Version 0.1.0-testing.6 adds these options:
 
-- Open **Settings → Help** for the **Privacy policy** and **RomBoy on GitHub** links, alongside the existing help resources.
-- **Share RomBoy** is on the main Settings page. It opens Android’s share chooser with the Google Play link. You choose whether and where to send it.
-- **Rate RomBoy** is also on the main Settings page. It opens the Google Play listing; available feedback options depend on your testing access.
+- Settings → Help links to the privacy policy and RomBoy on GitHub, alongside the existing help resources.
+- Share RomBoy, on the main Settings page, opens Android's share chooser with the Google Play link. You choose where to send it.
+- Rate RomBoy, also on the main Settings page, opens the Google Play listing. The feedback options available depend on your testing access.
 
 ## Need help?
 
-See [Support and feedback](SUPPORT.md). Games are not included; bring compatible files you have the right to use.
+See [Support and feedback](SUPPORT.md). Games are not included. Use compatible files you have the right to use.
