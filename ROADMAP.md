@@ -12,7 +12,7 @@ Updated 29 September 2026. There are no release dates for the features below. Pl
 | --- | --- | --- |
 | Android launch | Production pending | Release RomBoy with GB, GBC and GBA support. |
 | Original Mega Drive core | In development | Build RomBoy's own Sega Mega Drive / Genesis emulator. |
-| AYN Thor | In development | Use the built-in controls, play on the preferred screen and browse the RomBoy library on the other. |
+| AYN Thor | In development | Use the built-in controls, show game artwork on the second screen and let players swap the screens. |
 | Nintendo DS | Planned | Support two game screens and touch controls, including separate displays on compatible handhelds. |
 | Remote two-player play | Exploratory | Find out whether people in different locations can play supported games together. |
 | Additional cores | Under consideration | Add more systems that work well on Android. |
@@ -43,7 +43,7 @@ The core isn't available in the public app. There is no release date or promised
 
 Status: In development.
 
-Work has started on a handheld layout for AYN Thor. The aim is to play on the top screen by default and show the RomBoy game library on the other screen, with a remembered option to swap their roles. The game view uses the available screen area while keeping its original proportions, with the RomBoy button within reach at the bottom right.
+Work has started on a handheld layout for AYN Thor. The aim is to play on the top screen by default and show the current game's cover on the other screen, with a button to swap the screens and a remembered screen preference. The game view uses the available screen area while keeping its original proportions, with the RomBoy button within reach at the bottom right.
 
 This is development work and is not in the released app. Gameplay and physical control checks are still needed.
 
