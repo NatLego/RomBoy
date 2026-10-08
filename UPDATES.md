@@ -2,6 +2,19 @@
 
 [Back to RomBoy](README.md)
 
+## 8 October 2026 · Production release and fixes in progress
+
+RomBoy 1.0.0 is now available on Google Play, with GB, GBC and GBA support, offline play, refreshed screens and customisable skins.
+
+AYN Thor has a dedicated dual-screen layout, with a companion dashboard and the option to move gameplay between its top and bottom screens.
+
+Two fixes are being prepared for the next update:
+
+- RomM connection attempts now finish with a result instead of getting stuck on “Checking” after a repeated connection failure.
+- Thor controller input stays connected to the game when gameplay switches screens. The gameplay screen-switch button also works from the lower screen.
+
+Both fixes have passed automated checks. They are not included in the current Google Play version; the updated app is being prepared for release.
+
 ## 29 September 2026 · Coming in the next release
 
 RomBoy’s next update brings a refreshed Home screen, easier cover artwork management and dedicated AYN Thor support.
