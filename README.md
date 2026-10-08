@@ -20,7 +20,7 @@ Retro gaming on Android, with built-in emulation, offline play and customisable 
 </tr>
 </table>
 
-## Play on your phone
+## Play on your phone or handheld
 
 RomBoy is an independently developed retro game emulator for Android. Import games from your phone, or connect to your own compatible RomM server and choose what to download. Game Boy, Game Boy Color and Game Boy Advance emulation is built in. Once a game is on your phone, you can play offline.
 
@@ -37,6 +37,7 @@ Browse your collection by cover artwork, search for a game or return to somethin
 | Saves and backups | Keep saves on your device, with automatic server backup for games linked to your library when the server supports it. Restore supported saves, import or export save files, and choose between conflicting versions. |
 | Storage control | Remove a downloaded game while retaining its saves and the original on your server. |
 | Your controls | Use the touchscreen or a compatible controller, with customisable gameplay skins. |
+| Dual-screen play | Use both built-in screens on AYN Thor, with a companion dashboard and the option to move gameplay between screens. |
 | Your library | Browse cover artwork, search your on-device games and return to recently played titles. |
 | Dark mode and captures | Switch the app to dark mode, capture gameplay screenshots, then view and share them from the album. |
 
