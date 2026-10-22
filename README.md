@@ -6,7 +6,7 @@
 
 Retro gaming on Android, with built-in emulation, offline play and customisable skins.
 
-**Production pending · GB / GBC / GBA · Android**
+**Free on Google Play · GB / GBC / GBA · Android**
 
 [Getting started](GETTING_STARTED.md) · [Roadmap](ROADMAP.md) · [Development updates](UPDATES.md) · [Support and feedback](SUPPORT.md)
 
@@ -58,17 +58,17 @@ Server features require a compatible RomM server and the necessary account permi
 </tr>
 </table>
 
-## Release plans
+## Availability
 
-Production pending. [Google Play listing](https://play.google.com/store/apps/details?id=dev.romboy.app) · [Development updates](UPDATES.md)
-
-RomBoy is planned as a one-time purchase, with no ads or subscription. Future app updates will be included.
-
-RomBoy's developer is building an original Sega Mega Drive / Genesis core. Nintendo DS support is planned, with additional systems under consideration. Remote two-player play is being considered, but may not be released. See the [roadmap](ROADMAP.md) for details.
+- RomBoy is free to download and use from [Google Play](https://play.google.com/store/apps/details?id=dev.romboy.app).
+- The public version supports Game Boy, Game Boy Color and Game Boy Advance.
+- Mega Drive / Genesis support rolled out to internal testers on 22 October 2026. Testing is underway ahead of a public release.
+- Nintendo DS support is planned. See the [roadmap](ROADMAP.md) for other plans and [development updates](UPDATES.md) for release news.
 
 ## Follow along
 
 Use [Issues](https://github.com/NatLego/RomBoy/issues) to report a problem or suggest a feature, and [Discussions](https://github.com/NatLego/RomBoy/discussions) for questions and conversation. Read the [privacy policy](https://letmehelp-romboy.web.app/privacy-policy/). Read development notes in [Updates](UPDATES.md). This GitHub page is for information and community feedback. RomBoy's source code is private.
 
 Games are not included. Use compatible ROM files you have the right to use. Screenshots and phone mock-ups illustrate the app; game artwork belongs to its respective owners.
+
 
