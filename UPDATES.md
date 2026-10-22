@@ -4,9 +4,16 @@
 
 ## 8 October 2026 · RomBoy is on Google Play
 
-RomBoy 1.0.0 is now available on Google Play, with GB, GBC and GBA support, offline play, refreshed screens and customisable skins.
+- RomBoy is free to download and use from [Google Play](https://play.google.com/store/apps/details?id=dev.romboy.app).
+- Play Game Boy, Game Boy Color and Game Boy Advance games on Android.
+- Import your own games or download them from your RomM library.
+- Play offline, customise your controls and use AYN Thor's dual-screen layout.
 
-AYN Thor has a dedicated dual-screen layout, with a companion dashboard and the option to move gameplay between its top and bottom screens.
+## 22 October 2026 · Mega Drive reaches internal testing
+
+- Mega Drive / Genesis support rolled out to internal testers today.
+- Testing is underway ahead of a public release.
+- The public version continues to support GB, GBC and GBA.
 
 ## 29 September 2026 · Coming in the next release
 
@@ -66,5 +73,6 @@ Preparation for Google Play testing was underway.
 The roadmap covered development of RomBoy's own Mega Drive / Genesis core, planned Nintendo DS support, and exploration of remote two-player play. Other cores were also being considered. Remote multiplayer may not be released. See the [roadmap](ROADMAP.md) for current plans.
 
 Use the [issue tracker](https://github.com/NatLego/RomBoy/issues) for feedback. Updates here cover app changes, testing and releases.
+
 
 
