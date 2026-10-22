@@ -2,16 +2,16 @@
 
 [Back to RomBoy](README.md)
 
-RomBoy currently supports Game Boy, Game Boy Color and Game Boy Advance. An original Mega Drive core is in development, and Nintendo DS support is planned.
+RomBoy currently supports Game Boy, Game Boy Color and Game Boy Advance. The original Mega Drive / Genesis core is in internal testing, and Nintendo DS support is planned.
 
-Updated 29 September 2026. There are no release dates for the features below. Plans may change as testing continues.
+Updated 22 October 2026. There are no public release dates for the upcoming features below. Plans may change as testing continues.
 
 ## What's next
 
 | Area | Status | Aim |
 | --- | --- | --- |
-| Android launch | Production pending | Release RomBoy with GB, GBC and GBA support. |
-| Original Mega Drive core | In development | Build RomBoy's own Sega Mega Drive / Genesis emulator. |
+| Android launch | Available free on Google Play | Play GB, GBC and GBA games. |
+| Original Mega Drive core | Internal testing | Test Mega Drive / Genesis support ahead of a public release. |
 | Nintendo DS | Planned | Support DS games with two screens and touch controls on a phone. |
 | Remote two-player play | Exploratory | Find out whether people in different locations can play supported games together. |
 | Additional cores | Under consideration | Add more systems that work well on Android. |
@@ -20,23 +20,17 @@ Updated 29 September 2026. There are no release dates for the features below. Pl
 
 The app supports local imports and downloads from a compatible RomM server. Games stored on your phone work offline. It also includes saves, supported server backups and restores, customisable skins, dark mode and compatible controller support.
 
-Status: Production pending.
+- Available on [Google Play](https://play.google.com/store/apps/details?id=dev.romboy.app) since 8 October 2026.
+- Free to download and use.
 
 See [Development updates](UPDATES.md) for recent changes.
 
 ## Original Mega Drive core
 
-Status: In development.
-
-RomBoy's developer is building an original Sega Mega Drive / Genesis emulator. The work covers the console's CPU, graphics and sound, along with testing how games run.
-
-The aim is to play Mega Drive games through RomBoy's existing library. Before release, the core needs checks for game compatibility, timing, sound, performance and saves.
-
-Testing uses a separate development build. A revised display path passed a six-minute gameplay check and selected shorter checks on one phone, with no recorded audio underruns. Further CPU work passed an opening check that had previously failed and a one-minute combat check, also without recorded audio underruns.
-
-Other scenes still have intermittent audio failures. Graphics problems and wider game compatibility need more work. These checks don't establish that the core is ready for release.
-
-The core isn't available in the public app. There is no release date or promised compatibility list.
+- Mega Drive / Genesis support rolled out to internal testers on 22 October 2026.
+- Testing is underway ahead of a public release.
+- The public version continues to support GB, GBC and GBA.
+- A public release date has not been announced.
 
 ## Nintendo DS
 
@@ -69,6 +63,7 @@ No other systems are confirmed. If you'd like to suggest one, tell us which game
 In development means work is underway. Planned means we intend to add it. Exploratory means we're checking whether it can work. Under consideration means it hasn't been chosen for development.
 
 [Suggest a feature](https://github.com/NatLego/RomBoy/issues/new?template=feature_request.yml) or visit the [issue tracker](https://github.com/NatLego/RomBoy/issues).
+
 
 
 
