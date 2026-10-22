@@ -67,8 +67,9 @@ Server features require a compatible RomM server and the necessary account permi
 
 ## Follow along
 
-Use [Issues](https://github.com/NatLego/RomBoy/issues) to report a problem or suggest a feature, and [Discussions](https://github.com/NatLego/RomBoy/discussions) for questions and conversation. Read the [privacy policy](https://letmehelp-romboy.web.app/privacy-policy/). Read development notes in [Updates](UPDATES.md). This GitHub page is for information and community feedback. RomBoy's source code is private.
+Use [Issues](https://github.com/NatLego/RomBoy/issues) to report a problem or suggest a feature, and [Discussions](https://github.com/NatLego/RomBoy/discussions) for questions and conversation. Read the [privacy policy](https://letmehelp-romboy.web.app/privacy-policy/). Read development notes in [Updates](UPDATES.md). This GitHub page is for information and community feedback.
 
 Games are not included. Use compatible ROM files you have the right to use. Screenshots and phone mock-ups illustrate the app; game artwork belongs to its respective owners.
+
 
 
